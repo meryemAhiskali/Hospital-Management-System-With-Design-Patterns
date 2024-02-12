@@ -1,0 +1,12 @@
+enum Department {
+    CARDIOLOGY,
+    NEUROLOGY,
+    ONCOLOGY,
+    ORTHOPEDICS,
+    PEDIATRICS,
+    RADIOLOGY,
+    INTERNAL_MEDICINE,
+    SURGERY,
+    PSYCHIATRY
+}
+
