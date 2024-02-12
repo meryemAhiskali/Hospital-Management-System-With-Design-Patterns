@@ -1,6 +1,6 @@
 # Hospital Management System With Design Patterns
-This project is designed to develop a web-based hospital management system. The main goal of our project is to make the system more effective and manageable by using design patterns.
-
+This project is designed to develop a  management system. The main goal of our project is to make the system more effective and manageable by using design patterns.
+Meryem Ahıskalı - Nalan Gelir
 
 The design patterns used are as follows:
 
